@@ -1,0 +1,12 @@
+/home/thecuber/coding/webdev/yew/tailwindtemplate/target/debug/deps/libthiserror_impl-bc0c2dfd1ea6a3f2.so: /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs
+
+/home/thecuber/coding/webdev/yew/tailwindtemplate/target/debug/deps/thiserror_impl-bc0c2dfd1ea6a3f2.d: /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs /home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs
+
+/home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs:
+/home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs:
+/home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs:
+/home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs:
+/home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs:
+/home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs:
+/home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs:
+/home/thecuber/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs:

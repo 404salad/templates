@@ -1,0 +1,1 @@
+/home/thecuber/coding/webdev/yew/tailwindtemplate/target/wasm32-unknown-unknown/debug/trunk-template.wasm: /home/thecuber/coding/webdev/yew/tailwindtemplate/src/app.rs /home/thecuber/coding/webdev/yew/tailwindtemplate/src/header.rs /home/thecuber/coding/webdev/yew/tailwindtemplate/src/main.rs
